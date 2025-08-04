@@ -25,12 +25,12 @@ A Python desktop application that simulates a virtual classroom, generates synth
 
 
 student_performance_analyzer
-├── main.py               # App entry point
-├── gui.py                # Tkinter-based interface
-├── data\_generator.py     # Student data generator (randomized)
-├── analyzer.py           # Performance analysis functions
-├── visualizer.py         # Matplotlib-based charts
-└── student\_utils.py      # Random name generator
+ * main.py               # App entry point
+ *gui.py                # Tkinter-based interface
+ * data_generator.py     # Student data generator (randomized)
+ * analyzer.py           # Performance analysis functions
+ * visualizer.py         # Matplotlib-based charts
+ * student_utils.py      # Random name generator
 
  Installation
 
