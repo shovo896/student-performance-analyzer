@@ -46,7 +46,7 @@ pip install numpy pandas matplotlib
 >`tkinter` is usually pre-installed with Python. If not:
 >
 >  Windows/Linux: Already included
->  macOS: `brew install python-tk`
+>  macOS:`brew install python-tk
 
 
 
