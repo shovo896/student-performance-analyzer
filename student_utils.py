@@ -1,4 +1,3 @@
-# ------------------- student_utils.py -------------------
 import random
 
 def get_random_name():
